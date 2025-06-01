@@ -17,17 +17,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Otabek Sadiridinov <sadiridinovotabek@gmail.com>",
+  "author": "Shohnazar Abdusalomov",
   "license": "MIT",
   "description": "Backend for Dern-Support.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otabekoff/dern-backend.git"
+    "url": "git+https://github.com/Shohnazar18072003/dern-backend.git"
   },
   "bugs": {
-    "url": "https://github.com/otabekoff/dern-backend/issues"
+    "url": "https://github.com/Shohnazar18072003/dern-backend/issues"
   },
-  "homepage": "https://github.com/otabekoff/dern-backend#readme",
+  "homepage": "https://github.com/Shohnazar18072003/dern-backend#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.2",
