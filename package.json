@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/Shohnazar18072003/dern-backend/issues"
   },
-  "homepage": "https://github.com/Shohnazar18072003/dern-backend#readme",
+  "homepage": "https://github.com/Shohnazar18072003/dern-backend",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.2",
